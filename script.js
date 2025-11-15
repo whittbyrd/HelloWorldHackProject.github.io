@@ -1,7 +1,7 @@
 // ============================
 //  CONFIG: GEMINI API KEY
 // ============================
-const API_KEY = "AIzaSyBMGUCwBt7oVwWo-728kQ-KyaqaeuvtFsE"; // <-- put your real key here
+const API_KEY = ""; // <-- put your real key here
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${API_KEY}`;
 
 
