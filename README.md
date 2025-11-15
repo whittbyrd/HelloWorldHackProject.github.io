@@ -1,1 +1,1 @@
-Demo the site: https://whittbyrd.github.io/index.html
+Demo the site: https://whittbyrd/index.html
