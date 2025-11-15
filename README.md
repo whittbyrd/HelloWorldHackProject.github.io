@@ -1,1 +1,1 @@
-Demo the site: https:/HelloWorldHackProject.github.io/index.html
+Demo the site: https://helloworldhackproject.github.io/index.html
